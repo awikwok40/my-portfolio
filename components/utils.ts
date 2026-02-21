@@ -2,7 +2,7 @@
 export const socialLinks = {
     github: "https://github.com/awikwok40",
     linkedin: "https://www.linkedin.com/in/username-kamu",
-    cv: "/cv-irfan.pdf",
+    cv: "/Mohamad Irfan Maulana_CV.pdf",
     instagram: "https://www.instagram.com/mohamadirfan.m?igsh=MWUweXA5ZGM2amRxNA==",
     targetEmail: "muhamadirfan.mi966@gmail.com"
 };
