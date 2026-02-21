@@ -33,7 +33,7 @@ const Hero = () => {
                         Hire Me
                     </motion.a>
                     <motion.a
-                        href={socialLinks.cv}
+                        href={"/Mohamad Irfan Maulana_CV.pdf"}
                         target="_blank"
                         download="Mohamad Irfan Maulana_CV.pdf"
                         whileHover={{ scale: 1.05 }}
