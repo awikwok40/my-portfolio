@@ -33,9 +33,9 @@ const Hero = () => {
                         Hire Me
                     </motion.a>
                     <motion.a
-                        href={"/Mohamad Irfan Maulana_CV.pdf"}
+                        href={socialLinks.cv}
                         target="_blank"
-                        rel="noopener noreferrer"
+                        download="Mohamad Irfan Maulana_CV.pdf"
                         whileHover={{ scale: 1.05 }}
                         whileTap={{ scale: 0.95 }}
                         className="px-8 py-4 bg-white border border-gray-200 rounded-full font-bold cursor-pointer flex items-center gap-2"
